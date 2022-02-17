@@ -1,0 +1,21 @@
+.season__container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.season__name {
+  font-size: 100px;
+}
+
+.season__winter {
+  color: blue;
+}
+
+.season__summer {
+  color: orange;
+}
+
+.season__info {
+  font-size: 50px;
+}
